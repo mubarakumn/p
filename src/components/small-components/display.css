@@ -1,0 +1,12 @@
+.display-panel{
+    width: 90%;
+    height:390px;
+    box-sizing: border-box;
+    background-image: url(../../assets/laptop-screen.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
