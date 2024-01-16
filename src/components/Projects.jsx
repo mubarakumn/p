@@ -7,11 +7,13 @@ function Projects(){
     return(
         <>
         <div className="section-3" id="projects">
-            <h2>My Projects</h2>
-            <p>This Are Some of my past Projects</p>
-            <div className="porjects-content">
-                <ProjectCard img={img1} name="project name" desc="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam possimus rerum sapiente architecto reprehenderit voluptate deserunt laudantium eos dignissimos placeat."/>
-                <ProjectCard img={img2} name="project name" desc="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam possimus rerum sapiente architecto reprehenderit voluptate deserunt laudantium eos dignissimos placeat."/>
+            <div className="projects-head">
+                <h2>My Projects</h2>
+                <p>This Are Some of my past Projects</p>
+            </div>
+            <div className="projects-content">
+                <ProjectCard img={img3} name="project name" desc="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam possimus rerum sapiente architecto reprehenderit voluptate deserunt laudantium eos dignissimos placeat."/>
+                <ProjectCard img={img3} name="project name" desc="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam possimus rerum sapiente architecto reprehenderit voluptate deserunt laudantium eos dignissimos placeat."/>
                 <ProjectCard img={img3} name="project name" desc="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam possimus rerum sapiente architecto reprehenderit voluptate deserunt laudantium eos dignissimos placeat."/>
             </div>
         </div>
