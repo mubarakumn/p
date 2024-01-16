@@ -17,7 +17,8 @@ function Contact(){
                   <input type="text" />
                    </div>
                 </div>
-                  <label>Phone no. (Optional)</label>
+                  <label>Phone no
+                  . (Optional)</label>
                 <div > 
                   <input type="text" />
                 </div>
