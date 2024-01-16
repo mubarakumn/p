@@ -13,7 +13,7 @@ function Contact(){
                   <input type="text" required/>
                  </div>
                  <div>
-                  <label>Surname</label>
+                  <label>Surname  (Optional)</label>
                   <input type="text" />
                    </div>
                 </div>
